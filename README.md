@@ -1,2 +1,3 @@
 # relogio
-Relogio em python
+Relógio digital Python 
+inspiração git:liviavianna
