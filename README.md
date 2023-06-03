@@ -1,3 +1,3 @@
-# relogio
+# Relógio
 Relógio digital Python 
 inspiração git:liviavianna
